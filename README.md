@@ -1,11 +1,16 @@
 # userService
 
 Java assignment 1
+
 The purpose of this assignment is to evaluate the knowledge and experience
 working with Java Web development
+
 ● Language: Java 11 or above
+
 ● Framework: Spring Boot
+
 ● Database: PostgreSQL
+
 Requirements
 You’re tasked to develop the backend for a personal TODO application that requires
 users to be logged in before they can call the APIs. One user can create multiple todo
