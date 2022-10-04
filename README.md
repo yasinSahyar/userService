@@ -30,7 +30,7 @@ Develop a backend application using Java & Spring Boot framework that exposes a
 set of REST APIs for the following endpoints:
 ● POST /api/v1/signup: Sign up as an user of the system, using email & password
 ● POST /api/v1/signin: Sign in using email & password. The system will return the
-JWT token that can be used to call the APIs that follow
+JWT token that can be used to call the APIs that follow.
 ● PUT /api/v1/changePassword: Change user’s password
 ● GET /api/v1/todos?status=[status]: Get a list of todo items. Optionally, a status
 query param can be included to return only items of specific status. If not
